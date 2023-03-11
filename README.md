@@ -1,4 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE
+:point_right: [![SonarCloud](https://github.com/alumnoficticio2/ems2023_lab_3_mantenibilidad-alumnoficticio2/actions/workflows/main.yml/badge.svg)](https://github.com/alumnoficticio2/ems2023_lab_3_mantenibilidad-alumnoficticio2/actions/workflows/main.yml)
 
 # EMS-lab3 Maintainability
 
