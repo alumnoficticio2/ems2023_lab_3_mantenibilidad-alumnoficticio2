@@ -6,17 +6,17 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.practica</groupId>
-	<artifactId>refactor_ems</artifactId>
+	<artifactId>LAB3Principles</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>refactor_ems</name>
+	<name>LAB3Principles</name>
 	<url>http://www.example.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<sonar.organization>etsisi-ems</sonar.organization>
+		<sonar.organization>alumnoficticio2</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
